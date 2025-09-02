@@ -1,1 +1,1 @@
-# Notebook que são utilizados durante a semana do Workshop da Fábrica de Software - ML / IA
+# Notebooks que serão utilizados durante a semana do Workshop da Fábrica de Software - ML / IA
